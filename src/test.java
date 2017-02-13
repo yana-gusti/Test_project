@@ -4,6 +4,6 @@
 public class test {
 
     public void test(){
- String test;
+ String test = "123";
     }
 }
